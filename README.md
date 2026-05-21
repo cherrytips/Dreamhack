@@ -21,9 +21,10 @@ Dreamhack/
 
 워게임 문제 URL 형식: `https://dreamhack.io/wargame/challenges/xxxx/`
 
-| 번호 | 문제 이름 | 디렉터리 |
-|------|-----------|----------|
-| 1925 | Wargame Tutorial | [1925_Wargame_Tutorial](1925_Wargame_Tutorial/) |
+| 번호 | 문제 이름 | 난이도 | 디렉터리 |
+|------|-----------|--------|----------|
+| 872 | 64se64 | B4 | [872_64se64](872_64se64/) |
+| 1925 | Wargame Tutorial | B3 | [1925_Wargame_Tutorial](1925_Wargame_Tutorial/) |
 
 ## 참고 링크
 

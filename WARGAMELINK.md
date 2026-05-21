@@ -4,6 +4,7 @@
 
 URL 형식: `https://dreamhack.io/wargame/challenges/xxxx/`
 
-| 번호 | 문제 이름 | 링크 | 디렉터리 |
-|------|-----------|------|----------|
-| 1925 | Wargame Tutorial | [바로가기](https://dreamhack.io/wargame/challenges/1925/) | [1925_Wargame_Tutorial](1925_Wargame_Tutorial/) |
+| 번호 | 문제 이름 | 난이도 | 링크 | 디렉터리 |
+|------|-----------|--------|------|----------|
+| 872 | 64se64 | B4 | [바로가기](https://dreamhack.io/wargame/challenges/872/) | [872_64se64](872_64se64/) |
+| 1925 | Wargame Tutorial | B3 | [바로가기](https://dreamhack.io/wargame/challenges/1925/) | [1925_Wargame_Tutorial](1925_Wargame_Tutorial/) |

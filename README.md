@@ -25,6 +25,7 @@ Dreamhack/
 |------|-----------|--------|-----------|---------------|------|
 | 14 | rev-basic-0 | Sprout | [바로가기](https://dreamhack.io/wargame/challenges/14/) | [14_rev-basic-0](14_rev-basic-0/) | [풀이 보기](14_rev-basic-0/README.md) |
 | 837 | baby-linux | B3 | [바로가기](https://dreamhack.io/wargame/challenges/837/) | [837_baby-linux](837_baby-linux/) | [풀이 보기](837_baby-linux/README.md) |
+| 852 | ROT128 | Sprout | [바로가기](https://dreamhack.io/wargame/challenges/852/) | [852_ROT128](852_ROT128/) | [풀이 보기](852_ROT128/README.md) |
 | 872 | 64se64 | B4 | [바로가기](https://dreamhack.io/wargame/challenges/872/) | [872_64se64](872_64se64/) | - |
 | 1925 | Wargame Tutorial | B3 | [바로가기](https://dreamhack.io/wargame/challenges/1925/) | [1925_Wargame_Tutorial](1925_Wargame_Tutorial/) | - |
 | 934 | littlevsbig | Sprout | [바로가기](https://dreamhack.io/wargame/challenges/934/) | [934_littlevsbig](934_littlevsbig/) | [풀이 보기](934_littlevsbig/README.md) |

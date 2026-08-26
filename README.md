@@ -23,6 +23,7 @@ Dreamhack/
 
 | 번호 | 문제 이름 | 난이도 | 문제 링크 | 문제 디렉터리 | 풀이 |
 |------|-----------|--------|-----------|---------------|------|
+| 837 | baby-linux | B3 | [바로가기](https://dreamhack.io/wargame/challenges/837/) | [837_baby-linux](837_baby-linux/) | [풀이 보기](837_baby-linux/README.md) |
 | 872 | 64se64 | B4 | [바로가기](https://dreamhack.io/wargame/challenges/872/) | [872_64se64](872_64se64/) | - |
 | 1925 | Wargame Tutorial | B3 | [바로가기](https://dreamhack.io/wargame/challenges/1925/) | [1925_Wargame_Tutorial](1925_Wargame_Tutorial/) | - |
 | 934 | littlevsbig | Sprout | [바로가기](https://dreamhack.io/wargame/challenges/934/) | [934_littlevsbig](934_littlevsbig/) | [풀이 보기](934_littlevsbig/README.md) |
